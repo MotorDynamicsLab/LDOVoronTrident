@@ -6,3 +6,6 @@ The LDO deck panel has a Z cable opening that is in a slightly different positio
 
 ## LDO Deck Wire Cover Right
 The LDO deck panel has a larger rear right opening. This part will cover the larger opening more completely. 
+
+## Bed WAGO Mount
+This part holds the 2x2 WAGO terminals as well as a 2x2 JST XH Splicing PCB for the build plate.
